@@ -1,3 +1,4 @@
+<body background-color="black">
 <h1 align="center">Hi 👋, I'm Harshal Patil</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img justify-content="flex-end" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -23,3 +24,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshalrpatil25&show_icons=true&locale=en&layout=compact" alt="harshalrpatil25" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshalrpatil25&show_icons=true&locale=en" alt="harshalrpatil25" /></p>
+</body>
