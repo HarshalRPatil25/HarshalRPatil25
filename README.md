@@ -78,11 +78,11 @@ A full-stack **MERN** application to manage product information with **CRUD** op
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshalRPatil25&show_icons=true&theme=radical)
 
 ## 📈 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshalRPatil25&layout=compact&theme=radical)
 
 ## 🎯 Goal  
 My ultimate goal is to contribute to impactful **open-source projects** and become a **Full Stack Java Developer** at Google by 2026. 
