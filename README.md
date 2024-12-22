@@ -29,7 +29,7 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **MERN sta
 
 ## 🚀 Projects
 
-### 1. [Job Application Bot](https://github.com/your-github-username/job-application-bot)
+### 1. [Job Application Bot](https://github.com/HarshalRPatil25/job-application-bot)
 A bot that takes job preferences and applies for jobs on your behalf using **Spring Boot** backend and **React.js** frontend.
 
 - Technologies: **Spring Boot**, **React.js**, **MySQL**
@@ -38,7 +38,7 @@ A bot that takes job preferences and applies for jobs on your behalf using **Spr
     - Fetches jobs from multiple portals
     - Tracks applied jobs
 
-### 2. [Discussion Room](https://github.com/your-github-username/discussion-room)
+### 2. [Discussion Room](https://github.com/HarshalRPatil25/discussion-room)
 A real-time discussion room where users can chat using **WebSocket**.
 
 - Technologies: **Spring Boot**, **WebSocket**, **React.js**
@@ -46,7 +46,7 @@ A real-time discussion room where users can chat using **WebSocket**.
     - Real-time messaging
     - User authentication
 
-### 3. [MERN Stack Product Management](https://github.com/your-github-username/mern-product-management)
+### 3. [MERN Stack Product Management](https://github.com/HarshalRPatil25/mern-product-management)
 A product management web application to manage products with **CRUD** operations and user authentication.
 
 - Technologies: **MERN stack** (MongoDB, Express.js, React.js, Node.js)
@@ -56,7 +56,7 @@ A product management web application to manage products with **CRUD** operations
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshalRPatil25&show_icons=true&theme=radical)
 
 ## 🎯 Goals
 My goal is to become a **Full Stack Java Developer** and contribute to impactful open-source projects. 
