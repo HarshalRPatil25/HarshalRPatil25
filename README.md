@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]!
+# Hi there 👋, I'm Harshal Patil
 
 I'm a passionate **Full Stack Developer** with a strong foundation in **MERN stack** and **Java** development. I specialize in creating dynamic and interactive web applications and am always eager to learn and experiment with new technologies.
 
@@ -14,9 +14,8 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **MERN sta
 💬 Ask me about: **Java**, **Spring Boot**, **React.js**, **MERN stack**, **Data Structures & Algorithms**.
 
 ## 📫 How to reach me:
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin)
-- Website: [your-portfolio.com](https://your-portfolio.com)
+- Email: harshalrp25@gmail.com
+- LinkedIn: https://www.linkedin.com/in/harshalpatil25/
 
 ## 🛠️ Skills & Technologies:
 
