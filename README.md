@@ -46,42 +46,6 @@ I aim to retire at 48, currently exploring ways to earn more passively while foc
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&labelColor=black)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=black)
 
-## 🚀 Projects
-
-### 💼 [**Job Application Bot**](https://github.com/your-github-username/job-application-bot)  
-A bot that automatically applies to job listings based on user preferences, powered by **Spring Boot** & **React.js**.
-
-- **Features**:
-  - Fetches job listings from portals like Indeed, Naukri, and LinkedIn.
-  - Tracks applied jobs and stores them in the user’s profile.
-  - Built with **Spring Boot**, **React.js**, and **MySQL**.
-  
-- **Tech Stack**: ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-
----
-
-### 🔥 [**Discussion Room**](https://github.com/your-github-username/discussion-room)  
-A real-time chat application for online discussions using **WebSocket**.
-
-- **Features**:
-  - Real-time chat with WebSocket.
-  - User authentication with Spring Security.
-  - Built with **Spring Boot**, **WebSocket**, and **React.js**.
-  
-- **Tech Stack**: ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
----
-
-### 📦 [**Product Management System**](https://github.com/your-github-username/mern-product-management)  
-A full-stack **MERN** application to manage product information with **CRUD** operations.
-
-- **Features**:
-  - Add, update, and delete products.
-  - User authentication with JWT.
-  - Built with **MERN Stack**.
-
-- **Tech Stack**: ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&hide=prs&theme=radical&card_width=600)
