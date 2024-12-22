@@ -1,17 +1,65 @@
-# 💫 About Me:
-🌱 I’m currently learning Full Stack Development<br><br>
+# Hi there 👋, I'm [Your Name]!
 
+I'm a passionate **Full Stack Developer** with a strong foundation in **MERN stack** and **Java** development. I specialize in creating dynamic and interactive web applications and am always eager to learn and experiment with new technologies.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshal-patil-679a5120a) 
+🔭 I’m currently working on: 
+- Building a **Job Application Bot** using **Spring Boot** and **React.js**.
+- Improving my skills in **Data Structures & Algorithms**.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HarshalRPatil25&theme=vue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+🌱 I’m currently learning: 
+- **Spring Boot**, **Google Sign-In integration**, and **WebSocket** for real-time communication.
 
+📚 My current focus is on mastering **Java** and **Spring Boot** for building scalable backend services.
 
----
-[![](https://visitcount.itsvg.in/api?id=HarshalRPatil25&icon=0&color=0)](https://visitcount.itsvg.in)
+💬 Ask me about: **Java**, **Spring Boot**, **React.js**, **MERN stack**, **Data Structures & Algorithms**.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📫 How to reach me:
+- Email: [your-email@example.com](mailto:your-email@example.com)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin)
+- Website: [your-portfolio.com](https://your-portfolio.com)
+
+## 🛠️ Skills & Technologies:
+
+- **Languages**: Java, JavaScript, HTML, CSS, SQL
+- **Frontend**: React.js, HTML, CSS, Bootstrap
+- **Backend**: Spring Boot, Node.js, Express.js
+- **Database**: MySQL, MongoDB
+- **Version Control**: Git, GitHub
+- **Tools & Technologies**: Docker, Postman, Jenkins
+- **Others**: WebSocket, RESTful APIs, Google Sign-In
+
+## 🚀 Projects
+
+### 1. [Job Application Bot](https://github.com/your-github-username/job-application-bot)
+A bot that takes job preferences and applies for jobs on your behalf using **Spring Boot** backend and **React.js** frontend.
+
+- Technologies: **Spring Boot**, **React.js**, **MySQL**
+- Features: 
+    - Job preference form
+    - Fetches jobs from multiple portals
+    - Tracks applied jobs
+
+### 2. [Discussion Room](https://github.com/your-github-username/discussion-room)
+A real-time discussion room where users can chat using **WebSocket**.
+
+- Technologies: **Spring Boot**, **WebSocket**, **React.js**
+- Features:
+    - Real-time messaging
+    - User authentication
+
+### 3. [MERN Stack Product Management](https://github.com/your-github-username/mern-product-management)
+A product management web application to manage products with **CRUD** operations and user authentication.
+
+- Technologies: **MERN stack** (MongoDB, Express.js, React.js, Node.js)
+- Features:
+    - Add, update, and delete products
+    - User authentication
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+## 🎯 Goals
+My goal is to become a **Full Stack Java Developer** and contribute to impactful open-source projects. 
+
+Let's connect and build something amazing together!
