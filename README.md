@@ -1,4 +1,7 @@
-# Hey there 👋, I'm Harshal Patil
+<div style="background-color:#fff; padding:10px; border-radius:5px; text-align:center;">
+  <h1 style="color:#FFFFFF;">Hey there 👋, I'm Harshal Patil</h1>
+</div>
+
 
 I'm a passionate **Full Stack Developer** with a love for building modern, interactive applications using **MERN stack** and **Java**. I am always exploring new technologies and finding ways to improve my skills.
 
