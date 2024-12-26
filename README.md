@@ -1,29 +1,15 @@
-<div style="background-color:#fff; padding:10px; border-radius:5px; text-align:center;">
+
+
+<div style="background-color:#282A36; padding:10px; border-radius:5px; text-align:center;">
   <h1 style="color:#FFFFFF;">Hey there 👋, I'm Harshal Patil</h1>
 </div>
 
-
 I'm a passionate **Full Stack Developer** with a love for building modern, interactive applications using **MERN stack** and **Java**. I am always exploring new technologies and finding ways to improve my skills.
 
-🔭 Currently working on:  
-- **Job Application Bot** using **Spring Boot** & **React.js**  
-- **Job Portal Website** to help users track their job applications.  
 
-🌱 Currently learning:  
-- **Spring Boot**, **Google Sign-In**, and **WebSocket** for real-time communication.  
+
 
 💬 Ask me about: **Java**, **Spring Boot**, **React.js**, **MERN stack**, **Data Structures & Algorithms**.
-
-
-
-## 📫 Reach me here:
-<a href="https://www.linkedin.com/in/harshalpatil25/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="150" height="50"/>
-</a>
-<a href="https://x.com/Harshal_Patil25" target="_blank">
-  <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X" width="130" height="50"/>
-</a>
-
 
 
 
