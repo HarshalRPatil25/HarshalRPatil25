@@ -11,7 +11,18 @@ I'm a passionate **Full Stack Developer** with a love for building modern, inter
 
 💬 Ask me about: **Java**, **Spring Boot**, **React.js**, **MERN stack**, **Data Structures & Algorithms**.
 
+## 🌐 Connect with Me
 
+<a href="https://www.linkedin.com/in/harshalpatil25/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="150" height="50"/>
+</a>
+<a href="https://x.com/Harshal_Patil25" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" width="150" height="50"/>
+</a>
+
+<a href="mailto:harshalrp25@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="150" height="50"/>
+</a>
 
 
 ## 🛠️ Skills & Tools
